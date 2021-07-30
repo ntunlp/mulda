@@ -2,7 +2,7 @@
 This [repository](https://github.com/ntunlp/mulda.git) contains the source code and data used in our paper "MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER" accepted by ACL-IJCNLP 2021.
 
 
-# Data
+## Data
 The data generated using our labeled sequence translation method can be found in the "data" directory.
 
 ## Labled Sequence Translation
