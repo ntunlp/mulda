@@ -38,6 +38,9 @@ python generate.py \
   --gpuid 0
 ```
 
+## mbart
+The code is modified on top of [fairseq](https://github.com/pytorch/fairseq). See ```code/mbart/README.md``` for the detailed instructions.
+
 ## tools: tools for data processing
 - tools/preprocess.py: sequence linearization
 - tools/line2cols.py: convert linearized sequence back to two-column format
